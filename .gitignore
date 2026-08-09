@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.nc
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.ckpt
+*.npy
+*.npz
+*.tif
+*.shp
+.ipynb_checkpoints/
+results/
+outputs/
+.DS_Store
